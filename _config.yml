@@ -16,7 +16,7 @@ timezone: Asia/Bangkok
 
 title: Ly's Log # the main title
 
-tagline: Ly's Log, proudly made using Jekyll # it will display as the sub-title
+tagline: Just a little blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Just a little blog.
