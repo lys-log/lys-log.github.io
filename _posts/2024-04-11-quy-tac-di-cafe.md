@@ -85,5 +85,5 @@ Dù phương pháp của bạn là gì, đừng để vì 1 tiếng ngồi cafe 
 
 ## Tài liệu tham khảo
 
-- [Eater | Seven Rules for Working From a Coffee Shop](https://www.eater.com/2019/10/1/20890743/coffee-shop-work-etiquette-laptop-cell-phone)
-- [Taste of Home | 11 Things That Secretly Annoy Your Barista](https://www.tasteofhome.com/collection/coffee-shop-etiquette/)
+- [Eater \| Seven Rules for Working From a Coffee Shop](https://www.eater.com/2019/10/1/20890743/coffee-shop-work-etiquette-laptop-cell-phone)
+- [Taste of Home \| 11 Things That Secretly Annoy Your Barista](https://www.tasteofhome.com/collection/coffee-shop-etiquette/)
