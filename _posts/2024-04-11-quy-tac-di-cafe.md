@@ -61,7 +61,7 @@ Dù vậy, kể cả khi ta vào quán phù hợp với việc ở lại và là
 
 Ngoài ra, nếu bạn ngồi ở quán lâu hơn 4 tiếng, đừng quá ích kỉ mà chỉ mua 1 ly nước! Hãy ủng hộ những món khác trên thực đơn họ và thử vài món bánh tiramisu, bánh mì, bánh kem, hoặc uống thêm 1 ly hồng trà! Nếu bạn đang ngồi một mình, và thấy một tâm hồn lẻ loi khác đang lang thang đi tìm chỗ ngồi, đôi khi một ích sự tốt bụng cũng không mất gì, nhỉ!
 
-## 4. Giữ trật tự trong quán
+## 5. Giữ trật tự trong quán
 
 Cafe là không gian công cộng. Bạn vào quán để làm việc có nghĩa là sẽ có những người khác cũng vào quán để làm việc. Kể cả khi ta đi vào quán để bàn tán, nói chuyện với nhóm bạn lớn, hãy luôn tôn trọng không gian của người khác và đừng nói quá to! Các bạn nhân viên không phải quản lý thư viện, nên họ sẽ rất ngại nhắc nhở những khách như thế, hẳn bạn sẽ không muốn lọt vào thể loại ấy đâu nhỉ!
 
@@ -71,11 +71,11 @@ Nếu bạn biết trước rằng mình cần sự im lặng, hoặc mình cầ
 
 _P.S. Cá nhân mình thấy headset rất hữu dụng khi mình làm việc tại nơi công cộng!_
 
-## 5. Dọn vệ sinh chỗ ngồi
+## 6. Dọn vệ sinh chỗ ngồi
 
 Chỉ cần 5 người dành ra thêm một ít công sức mang ly nước của mình ra thùng rác và vứt nó đi, một bạn nhân viên có thể sẽ bớt được 10 phút công việc! Họ làm nước, tiếp khách và lau dọn bàn ghế, vệ sinh quán đã rất mệt mỏi rồi, nên hãy cầm ly nước, vỏ ống hút, giấy rác của mình và đem vứt khi bạn rời bàn nhé!
 
-## 6. Giữ gìn vật dụng cá nhân
+## 7. Giữ gìn vật dụng cá nhân
 
 Như mọi không gian công cộng khác, đừng bất cẩn mà để điện thoại của mình trên bàn khi đi vệ sinh! Đôi khi, bạn sẽ phải nhờ _hàng xóm_ trông nom đồ giúp mình. Đôi khi khác, bạn sẽ phải đặt cược và hi vọng mình sẽ không bị mất đồ :).
 
