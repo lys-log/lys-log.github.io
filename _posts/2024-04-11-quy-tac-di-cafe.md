@@ -22,7 +22,7 @@ Kể từ lúc mình vào cấp 3, trường mình có rất nhiều tiết tr�
 
 Cafe cũng là nơi công cộng. Mỗi con người ở cafe yêu thích của bạn có cuộc sống của riêng họ, có những cảm xúc của riêng họ, và có những nhu cầu riêng của họ. Vì vậy, hãy vì lợi ích chung của nhau mà làm một con người thật lịch sự nhé!
 
-Ở đây có nhiều quy tắc khác rơi vào phần này, nhưng mình sẽ nói vào các mục sau. Mình chỉ muốn để mục 1 ở đây để nhấn mạnh rằng **\*điều quan trọng nhất khi đi cafe là lịch sự!!**
+Ở đây có nhiều quy tắc khác rơi vào phần này, nhưng mình sẽ nói vào các mục sau. Mình chỉ muốn để mục 1 ở đây để nhấn mạnh rằng **điều quan trọng nhất khi đi cafe là lịch sự!!**
 
 ## 2. Kiên nhẫn khi gọi món
 
