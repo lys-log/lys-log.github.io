@@ -20,7 +20,7 @@ It’s a beautiful Thursday morning when Sai Gon’s flaming weather has cooled 
 
 The coffee is located right next to Cong Truong Lam Son, in a little corner of Sai Gon where little traffic resides. I was a little afraid to go to the shop as Google says the shop opens until 12 AM (silly me thought that meant noon), but the shop actually opens 24/7!
 
-I went to the shop wanting a comfortable place to study, so I spent 45,000VND for a Vietnamese Condensed Milk Coffee and 35,000VND for a donut, which both tasted amazing! Though I didn’t interact much with the staff, they were very friendly and nice to me, and the service was really fast. The price is a little much for regular students like me, but considering the size and the quality of the coffee and the donut, this sum of money makes sense to me. Well, the good thing is that the full menu is uploaded to [the shop website](http://choicevietnam.com/san-pham), so feel free to have a look before visiting!
+I went to the shop wanting a comfortable place to study, so I spent 45,000VND for a Vietnamese Condensed Milk Coffee and 35,000VND for a donut, which both tasted amazing! Though I didn’t interact much with the staff, they were very friendly and nice to me, and the service was really fast. The price is a little much for regular students like me, but considering the size and the quality of the coffee and the donut, this sum of money makes sense to me. Well, the good thing is that the full menu is uploaded to the shop website (it's not an HTTPS link so I cannot link it for security sake), so feel free to have a look before visiting!
 
 <figure style="color: #787E84; text-align:center;">
   <img src="https://i.postimg.cc/pL3f62Yg/IMG-4615-min.jpg" alt="Một ly cà phê sữa và một đĩa bánh donut"/>
