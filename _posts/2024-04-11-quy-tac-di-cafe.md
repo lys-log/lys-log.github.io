@@ -4,7 +4,7 @@ title: Những Quy Tắc Nên Biết Khi Đi Cafe
 date: 2024-04-11 16:00:00 +0700
 categories: [Vietnamese, Cuộc sống]
 tags: [cafe, học sinh]
-image: assets/thumbnails/2024-04-11-quy-tac-di-cafe.jpg
+image: assets/img/thumbnails/2024-04-11-quy-tac-di-cafe.jpg
 ---
 
 Hãy là người khách hàng người lý tưởng!
