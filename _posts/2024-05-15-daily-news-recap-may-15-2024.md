@@ -4,7 +4,7 @@ title: Daily News Recap - May 15th, 2024
 date: 2024-05-15 11:00:00 +0700
 categories: [English, Daily News Recap]
 tags: [daily news recap]
-image:
+image: assets/img/thumbnails/2024-05-15-daily-news-recap-may-15-2024.jpg
 ---
 
 Welcome to a new series that I hope to be consistent on - Daily News Recap, where I will post the notes at I take when I read at least 3 news articles that I find to be significant news everyday. Let's take a look at what we have in store today!
