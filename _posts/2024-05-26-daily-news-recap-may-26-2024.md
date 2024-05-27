@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daily News Recap - May 26th, 2024
-date: 2024-05-26 23:00:00 +0700
+date: 2024-05-26 9:00:00 +0700
 categories: [English, Daily News Recap]
 tags: [daily news recap]
 image:
