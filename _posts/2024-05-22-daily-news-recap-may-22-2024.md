@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily News Recap - May 22th, 2024
+title: Daily News Recap - May 22nd, 2024
 date: 2024-05-23 9:00:00 +0700
 categories: [English, Daily News Recap]
 tags: [daily news recap]
